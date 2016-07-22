@@ -1,5 +1,1 @@
-在Windows下我安装了Git
-
-
-哈哈，我kaixin修改了uuu
-xccx
+Hello Git!
